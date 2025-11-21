@@ -27,3 +27,18 @@
     } 
     const logger = () => console.log("Hello World");
     
+/*************    *************/
+    // stack vs heap
+    // stack is a LIFO (Last In First Out) data structure
+    // heap is a specialized tree-based data structure that satisfies the heap property
+    // stack is used for function calls and local variables
+    // heap is used for storing objects in memory
+    // example of a stack
+    const stack = [];
+    stack.push(1);
+    stack.push(2);
+    stack.push(3);
+    console.log(stack.pop()); // 3
+    console.log(stack.pop()); // 2
+    console.log(stack.pop()); // 1
+/*******  08cd8657-944f-4a1c-b21f-2844f38355c8  *******/    
