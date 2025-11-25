@@ -41,4 +41,4 @@
     console.log(stack.pop()); // 3
     console.log(stack.pop()); // 2
     console.log(stack.pop()); // 1
-/*******  08cd8657-944f-4a1c-b21f-2844f38355c8  *******/    
+/*******    *******/    
